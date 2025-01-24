@@ -1,0 +1,7 @@
+C:\Users\Naresh\source\repos\Hierarchical_inheritance\bin\Debug\Hierarchical_inheritance.exe.config
+C:\Users\Naresh\source\repos\Hierarchical_inheritance\bin\Debug\Hierarchical_inheritance.exe
+C:\Users\Naresh\source\repos\Hierarchical_inheritance\bin\Debug\Hierarchical_inheritance.pdb
+C:\Users\Naresh\source\repos\Hierarchical_inheritance\obj\Debug\Hierarchical_inheritance.csproj.AssemblyReference.cache
+C:\Users\Naresh\source\repos\Hierarchical_inheritance\obj\Debug\Hierarchical_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\Hierarchical_inheritance\obj\Debug\Hierarchical_inheritance.exe
+C:\Users\Naresh\source\repos\Hierarchical_inheritance\obj\Debug\Hierarchical_inheritance.pdb
