@@ -1,0 +1,14 @@
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\bin\Debug\net9.0\Single_Leve_inheritance.exe
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\bin\Debug\net9.0\Single_Leve_inheritance.deps.json
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\bin\Debug\net9.0\Single_Leve_inheritance.runtimeconfig.json
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\bin\Debug\net9.0\Single_Leve_inheritance.dll
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\bin\Debug\net9.0\Single_Leve_inheritance.pdb
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\Single_Leve_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\Single_Leve_inheritance.AssemblyInfoInputs.cache
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\Single_Leve_inheritance.AssemblyInfo.cs
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\Single_Leve_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\Single_Leve_inheritance.dll
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\refint\Single_Leve_inheritance.dll
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\Single_Leve_inheritance.pdb
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\Single_Leve_inheritance.genruntimeconfig.cache
+C:\Users\Naresh\source\repos\Single_Leve_inheritance\obj\Debug\net9.0\ref\Single_Leve_inheritance.dll
