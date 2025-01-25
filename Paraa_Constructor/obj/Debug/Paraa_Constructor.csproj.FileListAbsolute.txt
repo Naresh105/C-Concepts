@@ -1,0 +1,7 @@
+C:\Users\Naresh\source\repos\Paraa_Constructor\bin\Debug\Paraa_Constructor.exe.config
+C:\Users\Naresh\source\repos\Paraa_Constructor\bin\Debug\Paraa_Constructor.exe
+C:\Users\Naresh\source\repos\Paraa_Constructor\bin\Debug\Paraa_Constructor.pdb
+C:\Users\Naresh\source\repos\Paraa_Constructor\obj\Debug\Paraa_Constructor.csproj.AssemblyReference.cache
+C:\Users\Naresh\source\repos\Paraa_Constructor\obj\Debug\Paraa_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Naresh\source\repos\Paraa_Constructor\obj\Debug\Paraa_Constructor.exe
+C:\Users\Naresh\source\repos\Paraa_Constructor\obj\Debug\Paraa_Constructor.pdb
